@@ -129,6 +129,9 @@
     <None Include="Keymaps\konami.yml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+        <None Include="Keymaps\premierepro.yml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Keymaps\resharper.yml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
